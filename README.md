@@ -227,19 +227,19 @@ Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
 
 :open_file_folder: [Pipes](https://github.com/hlmclgl/RentaCarProject-Frontend/tree/master/src/app/pipes)
 
-:round_pushpin:Alt kısımdaki filter-brand.pipe dosyamız araç listemizde bulanan marka kısmına göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
+:pushpin:Alt kısımdaki filter-brand.pipe dosyamız araç listemizde bulanan marka kısmına göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
  
  - :page_facing_up: [FilterBrandPipe](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/src/app/pipes/filter-brand-pipe.pipe.ts)
  
 ![brandfilter](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/images/brandFilter2.png)
  
-:round_pushpin:Alt kısımdaki filter-color.pipe dosyamız araç listemizde bulanan renk kısmına göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
+:pushpin:Alt kısımdaki filter-color.pipe dosyamız araç listemizde bulanan renk kısmına göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
  
  - :page_facing_up: [FilterColorPipe](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/src/app/pipes/filter-color-pipe.pipe.ts)
  
 ![colorfilter](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/images/ColorFilter2.png)
 
-:round_pushpin:Alt kısımdaki filter-pipe.pipe dosyamız araç listemizde bulanan araçları marka ve modele göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
+:pushpin:Alt kısımdaki filter-pipe.pipe dosyamız araç listemizde bulanan araçları marka ve modele göre, text kutumuza girilen karakterlere uygun sonuçların listelenmesini sağlar.
  
  - :page_facing_up: [FilterPipe](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/src/app/pipes/filter-pipe.pipe.ts)
  
@@ -262,6 +262,8 @@ Aşağıdaki bağlantıları kullanarak detayları inceleyebilirsiniz.
  - :page_facing_up:[AuthInterceptors](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/src/app/interceptors/auth.interceptor.ts)
  
  ### :pushpin:***LinkedIn hesabıma [buradan](https://www.linkedin.com/in/ahmet-hilmi-%C3%A7ilo%C4%9Flu-884012203/) ulaşabilirsiniz.*** ###
+ 
+ ### :e-mail:***E-mail: hlmclgl@gmail.com*** ###
  
  # RentaCarProject 
  
@@ -492,19 +494,19 @@ You can review the details using the links below.
 
 :open_file_folder: [Pipes](https://github.com/hlmclgl/RentaCarProject-Frontend/tree/master/src/app/pipes)
 
-:round_pushpin:Filter-brand at the bottom.our pipe file allows you to list the results that match the characters entered in our text box according to the brand section found in our tool list.
+:pushpin:Filter-brand at the bottom.our pipe file allows you to list the results that match the characters entered in our text box according to the brand section found in our tool list.
  
  - :page_facing_up: [FilterBrandPipe](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/src/app/pipes/filter-brand-pipe.pipe.ts)
  
 ![brandfilter](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/images/brandFilter2.png)
  
-:round_pushpin:Filter-color at the bottom.our pipe file allows you to list the results that match the characters entered in our text box according to the color section found in our tool list.
+:pushpin:Filter-color at the bottom.our pipe file allows you to list the results that match the characters entered in our text box according to the color section found in our tool list.
  
  - :page_facing_up: [FilterColorPipe](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/src/app/pipes/filter-color-pipe.pipe.ts)
  
 ![colorfilter](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/images/ColorFilter2.png)
 
-:round_pushpin:Filter-pipe at the bottom.our pipe file allows you to list the tools found in our tool list according to the brand and model, the results corresponding to the characters entered in our text box.
+:pushpin:Filter-pipe at the bottom.our pipe file allows you to list the tools found in our tool list according to the brand and model, the results corresponding to the characters entered in our text box.
  
  - :page_facing_up: [FilterPipe](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/src/app/pipes/filter-pipe.pipe.ts)
  
@@ -527,6 +529,8 @@ You can review the details using the links below.
  - :page_facing_up:[AuthInterceptors](https://github.com/hlmclgl/RentaCarProject-Frontend/blob/master/src/app/interceptors/auth.interceptor.ts)
  
 ### :pushpin:***You can access my LinkedIn account [from here](https://www.linkedin.com/in/ahmet-hilmi-%C3%A7ilo%C4%9Flu-884012203/).*** ###
+
+### :e-mail:***E-mail: hlmclgl@gmail.com*** ###
  
  
   
