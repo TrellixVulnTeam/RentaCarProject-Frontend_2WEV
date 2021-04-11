@@ -531,6 +531,10 @@ You can review the details using the links below.
 ### :pushpin:***You can access my LinkedIn account [from here](https://www.linkedin.com/in/ahmet-hilmi-%C3%A7ilo%C4%9Flu-884012203/).*** ###
 
 ### :e-mail:***E-mail: hlmclgl@gmail.com*** ###
+
+ ## **License** ##
+
+:balance_scale: [MIT :copyright: 2021 Ahmet Hilmi Çiloğlu](https://github.com/hlmclgl/RentaCarProject/blob/master/LICENSE.md)
  
  
   
