@@ -536,8 +536,6 @@ You can review the details using the links below.
 
 :balance_scale: [MIT :copyright: 2021 Ahmet Hilmi Çiloğlu](https://github.com/hlmclgl/RentaCarProject/blob/master/LICENSE.md)
 
-![göl](https://i.hizliresim.com/r1zp5xu.jpg)
-
  
  
   
